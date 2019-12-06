@@ -1,0 +1,48 @@
+  Jenkins is a powerful application that allows continuous integration and continuous delivery of projects, regardless of the platform you are working on.
+  Jenkins is a popular tool for performing continuous integration of software projects. 
+  This is a preliminary tutorial that covers the most fundamental concepts of Jenkins.
+  Any software professional having a good understanding of Software Development Life Cycle should benefit from this tutorial.
+
+ version 2.130
+
+JDK 1.5 or above
+
+  What is Continuous Integration?
+  -------------------------------
+   Continuous Integration is a development practice that requires developers to integrate code into a shared repository at regular intervals. 
+   This concept was meant to remove the problem of finding later occurrence of issues in the build lifecycle.
+   Continuous integration requires the developers to have frequent builds. 
+   The common practice is that whenever a code commit occurs, a build should be triggered.
+
+
+
+  CI Benefits:
+  -----------
+--->Immediate bug detection for remediation
+--->Improves productivity of developers : it free developers from manual tasks and encourages practices that help in reducing errors released to end-users.
+--->Faster updates delivery to the end-users: It creates a  deployable system at any given point of time.
+--->Above all, record of evolution of project.
+
+
+
+Jenkins is an open-source continuous integration software tool written in the Java programming language for 
+testing and reporting on isolated changes in a larger code base in real time.
+It can also be used to automate tasks related to building, testing deploying or delivering software.
+
+
+ SDLC:
+ -----
+1.PLANNING
+2.ANALYSIS
+3.DESIGN
+4.IMPLEMENTATION
+5.TESTING & IMPLEMENTATION
+6.MAINTENANCE
+
+Software development process can’t work efficiently without right tools.
+ Similarly, in the case of DevOps, you can always benefit from the right set of tools. 
+These tools help in information sharing, process automation, reduction in deployment time, in continuous deployment, etc.
+                                   ---------
+***Build (Continuous Integration):| Jenkins |, Travis, TeamCity
+                                   ---------
+ 
