@@ -1,5 +1,5 @@
 
-<project name="My Project" default="jar" basedir=".">
+<project name="myant" default="jar" basedir=".">
 
 <property name="dir.src" value="src"/>
 <property name="dir.build" value="build"/>
